@@ -1,4 +1,4 @@
 /.venv
-/AABW___Assignment_2.pdf
-/Assignment - Brachytherapy-1.pdf
 /DataSetFeedcalculator.xlsx
+*.log
+*.lock
