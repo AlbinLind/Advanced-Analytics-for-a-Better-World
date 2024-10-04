@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "aabw"
+version = "0.1.0"
+description = ""
+authors = ["Albin Lindqvist <albin.lindqvist@hotmail.se>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.*"
+pandas = "^2.2.2"
+pyomo = "^6.8.0"
+ipykernel = "^6.29.5"
+openpyxl = "^3.1.5"
+matplotlib = "^3.9.2"
+scikit-learn = "^1.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
